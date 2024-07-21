@@ -1191,10 +1191,10 @@ glob-parent@~5.1.2:
   dependencies:
     is-glob "^4.0.1"
 
-graphql-sse@^2.1.3:
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/graphql-sse/-/graphql-sse-2.1.3.tgz#c58d02a035a9efb281cedcf93cb98f454d1e529c"
-  integrity sha512-NZ4bek4VBlsEDSCnibq9MddbZ2AU4rAusTwUg3sbux4J3WOcZ6zB6Ysrw6rzfJq771wEmwPEMtXPVbOYZnnFUw==
+graphql-sse@^2.5.3:
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/graphql-sse/-/graphql-sse-2.5.3.tgz#c3557803f2db306d8ac87fd3bc089b6d4bac8353"
+  integrity sha512-5IcFW3e7fPOG7oFkK1v3X1wWtCJArQKB/H1UJeNotjy7a/9EYA5K+EiHJF1BiDSVNx7y64bd0FlDETrNBSvIHQ==
 
 graphql-subscriptions@^2.0.0:
   version "2.0.0"
