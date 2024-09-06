@@ -3,9 +3,9 @@
   "description": "ESlint configurations",
   "version": "7.2.4",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.16.0",
-    "@typescript-eslint/parser": "^6.16.0",
-    "eslint": "^8.31.0",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
+    "eslint": "^8.44.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.26.0",
