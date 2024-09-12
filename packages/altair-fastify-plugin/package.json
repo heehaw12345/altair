@@ -5,7 +5,7 @@
   "author": "PabloSz <pablosaez1995@gmail.com>",
   "bugs": "https://github.com/altair-graphql/altair/issues",
   "dependencies": {
-    "@fastify/static": "^6.4.0",
+    "@fastify/static": "^6.6.1",
     "altair-static": "^7.2.4",
     "fastify-plugin": "^2.3.4"
   },
