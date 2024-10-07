@@ -13,7 +13,7 @@
     "@altairgraphql/electron-interop": "^7.2.4",
     "@altairgraphql/electron-settings-static": "^7.2.4",
     "@altairgraphql/login-redirect": "^7.2.4",
-    "@sentry/electron": "^4.14.0",
+    "@sentry/electron": "^4.15.0",
     "altair-static": "^7.2.4",
     "body-parser": "^1.20.0",
     "csp-header": "^5.1.0",
