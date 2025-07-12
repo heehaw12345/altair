@@ -93,7 +93,7 @@
     "prettier": "^3.2.5",
     "rxjs": "^7.0.0",
     "sanitize-html": "2.7.1",
-    "subscriptions-transport-ws": "0.9.19",
+    "subscriptions-transport-ws": "0.11.0",
     "sval": "0.4.8",
     "tslib": "2.0.0",
     "uuid": "9.0.1",
