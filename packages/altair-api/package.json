@@ -13,7 +13,7 @@
     "@nestjs/jwt": "^9.0.0",
     "@nestjs/passport": "^10.0.2",
     "@nestjs/platform-express": "^9.0.0",
-    "@nestjs/swagger": "^6.1.3",
+    "@nestjs/swagger": "^11.2.2",
     "@newrelic/pino-enricher": "^1.1.1",
     "altair-graphql-core": "^7.2.4",
     "bcrypt": "^5.1.0",
